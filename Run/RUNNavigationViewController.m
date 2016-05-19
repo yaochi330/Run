@@ -9,12 +9,12 @@
 #import "RunNavigationViewController.h"
 
 
-@interface RunNavigationViewController ()
+@interface RUNNavigationViewController ()
 
 @end
 
 
-@implementation RunNavigationViewController
+@implementation RUNNavigationViewController
 
 
 - (void)viewDidLoad {

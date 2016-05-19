@@ -1,21 +1,20 @@
 //
-//  RunTabBarViewController.m
+//  RUNRecordViewController.m
 //  Run
 //
 //  Created by 姚驰 on 16/5/19.
 //  Copyright © 2016年 姚驰. All rights reserved.
 //
 
-#import "RunTabBarViewController.h"
+#import "RUNRecordViewController.h"
 
 
-@interface RunTabBarViewController ()
+@interface RUNRecordViewController ()
 
 @end
 
 
-@implementation RunTabBarViewController
-
+@implementation RUNRecordViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
